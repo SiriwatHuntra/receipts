@@ -22,7 +22,7 @@ Or install it yourself as:
 
     $ gem install receipts
 
-## Usage
+## Usage.
 
 To generate a Receipt, Invoice, or Statement, create an instance and provide content to render:
 
